@@ -31,4 +31,4 @@ async def emoji(ctx):
 async def flip(ctx):
     await ctx.send(flip_coin())
 
-bot.run('MTMxOTQ1MzMyMTQxNjkzNzQ4Mg.GtVX5g.3RBYP9iX8ZLTA046eIQxPsXxJYscla4FO5H6zw')
+bot.run('TOKEN')
