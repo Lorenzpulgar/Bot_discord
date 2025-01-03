@@ -22,4 +22,8 @@ def flip_coin():
         return "CARA"
     else:
         return "CRUZ"
+
+def peliculas():
+    peliculas = ["Blane Runner", "Matrix", "Memento", "El indomable wil"]
+    return random.choice(peliculas)
  
